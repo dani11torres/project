@@ -1,17 +1,21 @@
-# Foobar
+#  Van der Waals gas of particle
 
-Foobar is a Python library for dealing with word pluralization.
+ Van der Waals gas of particle is a Fortran/Python program that allow us to study the interaction of hard sppheres subjected to a Leenard-Jones potential
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use  to install the program.
 
+Ex:
 ```bash
 pip install foobar
 ```
 
 ## Usage
 
+make program...
+
+vmd (explain)
 ```python
 import foobar
 
